@@ -1,4 +1,4 @@
-module github.com/raelnogpires/euro-brl-converter-go-cli
+module github.com/raelnogpires/currency-to-brl-converter-go-cli
 
 go 1.18
 

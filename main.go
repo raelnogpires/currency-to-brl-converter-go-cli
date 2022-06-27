@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/raelnogpires/euro-brl-converter-go-cli/fetch"
-	"github.com/raelnogpires/euro-brl-converter-go-cli/format_data"
+	"github.com/raelnogpires/currency-to-brl-converter-go-cli/fetch"
+	"github.com/raelnogpires/currency-to-brl-converter-go-cli/format_data"
 )
 
 func main() {
